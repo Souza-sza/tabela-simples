@@ -1,0 +1,117 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+body{
+	font-size: 1em;
+	background: #ccc;
+	font-family: arial, heltetica ,sans-serif;
+}
+a{
+	text-decoration: none;
+	padding: 5px;
+	color: #f7b600;
+}
+.cinza{
+	color: gray;
+}
+.branco{
+	color: white;
+}
+#menu a:link, #menu a:visited{
+	color: white;
+}
+#menu a:hover{
+	background: white;
+	color: #f7b600;
+}
+.texto{
+	padding: 10px;
+}
+/* 
+-- area cabeçalho começo --
+*/
+
+#area-cabecalho{ 
+	background: #f7b600;
+	text-align: center;
+}
+
+#area-logo{
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+#menu{
+ padding: 10px;
+}
+h3{
+	background: #ccc;
+	color: #565656;
+	text-align: center;
+	padding: 5px;
+}
+.f-h3{
+	padding: 10px;	
+	margin-bottom: 5px;
+}
+
+/* 
+//// area cabeçalho fim
+*/
+
+/* 
+//// começo de area do conteúdo
+*/
+#conteudo{
+	width: 920px;
+	margin: 5px auto;
+	
+}
+#area-conteudo{
+	background: white;
+	padding: 10px;
+	width: 660px;
+	float: left;
+	margin-bottom: 8px;
+}
+#conteudo-lateral{
+	background: white;
+	float: right;
+	width: 224px;
+	float: top;
+	margin-top: 10px;
+
+}
+#area-leteral{
+	font-size: 0.8em;
+	padding: 10px;	
+	margin-bottom: 5px;
+
+}
+
+#rodape{
+	clear: both;
+	background: gray;
+	text-align: center;
+
+}
+.data{
+	font-size: 0.8em;
+	margin-bottom: 5px;
+}
+h1{
+	color: #f7b600;
+}
+.imagem{
+	width: 620px;
+	margin-bottom: 5px;
+}
+.texto{
+	padding: 10px;
+	width: 600px;
+}
+/* 
+//// final de area do conteúdo
+*/
